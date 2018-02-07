@@ -1,0 +1,19 @@
+venom@venom-ROSindigo:~/Documents/hw/ece486_hw3$ gcc prob7.c -o prob7.o
+venom@venom-ROSindigo:~/Documents/hw/ece486_hw3$ gcc prob8.c -o prob8.o
+venom@venom-ROSindigo:~/Documents/hw/ece486_hw3$ gcc prob9.c -o prob9.o
+venom@venom-ROSindigo:~/Documents/hw/ece486_hw3$ gcc prob10.c -o prob10.o
+venom@venom-ROSindigo:~/Documents/hw/ece486_hw3$ ./prob6.o 
+33554431
+33554432.000000
+venom@venom-ROSindigo:~/Documents/hw/ece486_hw3$ ./prob7.o 
+1.000000
+0.000000
+venom@venom-ROSindigo:~/Documents/hw/ece486_hw3$ ./prob8.o 
+Not equal
+venom@venom-ROSindigo:~/Documents/hw/ece486_hw3$ ./prob9.o 
+Not equal
+venom@venom-ROSindigo:~/Documents/hw/ece486_hw3$ ./prob10.o 
+-nan
+inf
+-inf
+venom@venom-ROSindigo:~/Documents/hw/ece486_hw3$ 
