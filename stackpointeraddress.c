@@ -3,5 +3,5 @@
 int main(int argc, char* argv)
 {
   int x = 0;
-  printf(*x);
+  printf("%d\n", &x);
 }
